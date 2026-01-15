@@ -1,4 +1,18 @@
-##Python Programming – Complete Learning Repository
+<div align="center">
 
-This repository is designed to teach Python from basics to intermediate level with clear explanations, examples, and hands-on practice.
-It is suitable for beginners, students, and aspiring developers who want to build a strong foundation in Python.
+# 🐍 PYTHON PROGRAMMING
+# COMPLETE LEARNING REPOSITORY
+
+### Learn Python from Basics to Intermediate with Hands-On Practice
+
+</div>
+
+---
+
+# 📖 ABOUT THIS REPOSITORY
+
+This repository is created to teach Python programming from scratch in a clear, simple, and structured way.  
+It focuses on fundamentals, logic building, and practical coding, making it ideal for beginners.
+
+---
+
